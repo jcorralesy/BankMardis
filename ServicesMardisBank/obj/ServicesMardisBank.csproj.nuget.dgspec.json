@@ -1,0 +1,368 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\acorrales\\OneDrive\\Desktop\\TestBancoMardis\\MardisBancoTest\\ServicesMardisBank\\ServicesMardisBank.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\acorrales\\OneDrive\\Desktop\\TestBancoMardis\\MardisBancoTest\\BussinesApp\\BussinesApp.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\acorrales\\OneDrive\\Desktop\\TestBancoMardis\\MardisBancoTest\\BussinesApp\\BussinesApp.csproj",
+        "projectName": "BussinesApp",
+        "projectPath": "C:\\Users\\acorrales\\OneDrive\\Desktop\\TestBancoMardis\\MardisBancoTest\\BussinesApp\\BussinesApp.csproj",
+        "packagesPath": "C:\\Users\\acorrales\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\acorrales\\OneDrive\\Desktop\\TestBancoMardis\\MardisBancoTest\\BussinesApp\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\acorrales\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\acorrales\\OneDrive\\Desktop\\TestBancoMardis\\MardisBancoTest\\DataAccesBD\\DataAccesBD.csproj": {
+                "projectPath": "C:\\Users\\acorrales\\OneDrive\\Desktop\\TestBancoMardis\\MardisBancoTest\\DataAccesBD\\DataAccesBD.csproj"
+              },
+              "C:\\Users\\acorrales\\OneDrive\\Desktop\\TestBancoMardis\\MardisBancoTest\\ModelBD\\ModelBD.csproj": {
+                "projectPath": "C:\\Users\\acorrales\\OneDrive\\Desktop\\TestBancoMardis\\MardisBancoTest\\ModelBD\\ModelBD.csproj"
+              },
+              "C:\\Users\\acorrales\\OneDrive\\Desktop\\TestBancoMardis\\MardisBancoTest\\TransversalUtilities\\TransversalUtilities.csproj": {
+                "projectPath": "C:\\Users\\acorrales\\OneDrive\\Desktop\\TestBancoMardis\\MardisBancoTest\\TransversalUtilities\\TransversalUtilities.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\acorrales\\OneDrive\\Desktop\\TestBancoMardis\\MardisBancoTest\\DataAccesBD\\DataAccesBD.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\acorrales\\OneDrive\\Desktop\\TestBancoMardis\\MardisBancoTest\\DataAccesBD\\DataAccesBD.csproj",
+        "projectName": "DataAccesBD",
+        "projectPath": "C:\\Users\\acorrales\\OneDrive\\Desktop\\TestBancoMardis\\MardisBancoTest\\DataAccesBD\\DataAccesBD.csproj",
+        "packagesPath": "C:\\Users\\acorrales\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\acorrales\\OneDrive\\Desktop\\TestBancoMardis\\MardisBancoTest\\DataAccesBD\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\acorrales\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\acorrales\\OneDrive\\Desktop\\TestBancoMardis\\MardisBancoTest\\ModelBD\\ModelBD.csproj": {
+                "projectPath": "C:\\Users\\acorrales\\OneDrive\\Desktop\\TestBancoMardis\\MardisBancoTest\\ModelBD\\ModelBD.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\acorrales\\OneDrive\\Desktop\\TestBancoMardis\\MardisBancoTest\\ModelBD\\ModelBD.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\acorrales\\OneDrive\\Desktop\\TestBancoMardis\\MardisBancoTest\\ModelBD\\ModelBD.csproj",
+        "projectName": "ModelBD",
+        "projectPath": "C:\\Users\\acorrales\\OneDrive\\Desktop\\TestBancoMardis\\MardisBancoTest\\ModelBD\\ModelBD.csproj",
+        "packagesPath": "C:\\Users\\acorrales\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\acorrales\\OneDrive\\Desktop\\TestBancoMardis\\MardisBancoTest\\ModelBD\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\acorrales\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[6.0.4, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[6.0.4, )"
+            },
+            "System.Data.SqlClient": {
+              "target": "Package",
+              "version": "[4.8.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\acorrales\\OneDrive\\Desktop\\TestBancoMardis\\MardisBancoTest\\ServicesMardisBank\\ServicesMardisBank.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\acorrales\\OneDrive\\Desktop\\TestBancoMardis\\MardisBancoTest\\ServicesMardisBank\\ServicesMardisBank.csproj",
+        "projectName": "ServicesMardisBank",
+        "projectPath": "C:\\Users\\acorrales\\OneDrive\\Desktop\\TestBancoMardis\\MardisBancoTest\\ServicesMardisBank\\ServicesMardisBank.csproj",
+        "packagesPath": "C:\\Users\\acorrales\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\acorrales\\OneDrive\\Desktop\\TestBancoMardis\\MardisBancoTest\\ServicesMardisBank\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\acorrales\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\acorrales\\OneDrive\\Desktop\\TestBancoMardis\\MardisBancoTest\\BussinesApp\\BussinesApp.csproj": {
+                "projectPath": "C:\\Users\\acorrales\\OneDrive\\Desktop\\TestBancoMardis\\MardisBancoTest\\BussinesApp\\BussinesApp.csproj"
+              },
+              "C:\\Users\\acorrales\\OneDrive\\Desktop\\TestBancoMardis\\MardisBancoTest\\ModelBD\\ModelBD.csproj": {
+                "projectPath": "C:\\Users\\acorrales\\OneDrive\\Desktop\\TestBancoMardis\\MardisBancoTest\\ModelBD\\ModelBD.csproj"
+              },
+              "C:\\Users\\acorrales\\OneDrive\\Desktop\\TestBancoMardis\\MardisBancoTest\\TransversalUtilities\\TransversalUtilities.csproj": {
+                "projectPath": "C:\\Users\\acorrales\\OneDrive\\Desktop\\TestBancoMardis\\MardisBancoTest\\TransversalUtilities\\TransversalUtilities.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[6.0.4, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[6.0.4, )"
+            },
+            "Microsoft.VisualStudio.Azure.Containers.Tools.Targets": {
+              "target": "Package",
+              "version": "[1.14.0, )"
+            },
+            "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
+              "target": "Package",
+              "version": "[6.0.3, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.3.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\acorrales\\OneDrive\\Desktop\\TestBancoMardis\\MardisBancoTest\\TransversalUtilities\\TransversalUtilities.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\acorrales\\OneDrive\\Desktop\\TestBancoMardis\\MardisBancoTest\\TransversalUtilities\\TransversalUtilities.csproj",
+        "projectName": "TransversalUtilities",
+        "projectPath": "C:\\Users\\acorrales\\OneDrive\\Desktop\\TestBancoMardis\\MardisBancoTest\\TransversalUtilities\\TransversalUtilities.csproj",
+        "packagesPath": "C:\\Users\\acorrales\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\acorrales\\OneDrive\\Desktop\\TestBancoMardis\\MardisBancoTest\\TransversalUtilities\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\acorrales\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

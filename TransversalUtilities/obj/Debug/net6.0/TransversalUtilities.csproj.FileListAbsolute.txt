@@ -1,0 +1,15 @@
+C:\Users\acorrales\OneDrive\Desktop\TestBancoMardis\MardisBancoTest\TransversalUtilities\bin\Debug\net6.0\TransversalUtilities.exe
+C:\Users\acorrales\OneDrive\Desktop\TestBancoMardis\MardisBancoTest\TransversalUtilities\bin\Debug\net6.0\TransversalUtilities.deps.json
+C:\Users\acorrales\OneDrive\Desktop\TestBancoMardis\MardisBancoTest\TransversalUtilities\bin\Debug\net6.0\TransversalUtilities.runtimeconfig.json
+C:\Users\acorrales\OneDrive\Desktop\TestBancoMardis\MardisBancoTest\TransversalUtilities\bin\Debug\net6.0\TransversalUtilities.dll
+C:\Users\acorrales\OneDrive\Desktop\TestBancoMardis\MardisBancoTest\TransversalUtilities\bin\Debug\net6.0\TransversalUtilities.pdb
+C:\Users\acorrales\OneDrive\Desktop\TestBancoMardis\MardisBancoTest\TransversalUtilities\obj\Debug\net6.0\TransversalUtilities.csproj.AssemblyReference.cache
+C:\Users\acorrales\OneDrive\Desktop\TestBancoMardis\MardisBancoTest\TransversalUtilities\obj\Debug\net6.0\TransversalUtilities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\acorrales\OneDrive\Desktop\TestBancoMardis\MardisBancoTest\TransversalUtilities\obj\Debug\net6.0\TransversalUtilities.AssemblyInfoInputs.cache
+C:\Users\acorrales\OneDrive\Desktop\TestBancoMardis\MardisBancoTest\TransversalUtilities\obj\Debug\net6.0\TransversalUtilities.AssemblyInfo.cs
+C:\Users\acorrales\OneDrive\Desktop\TestBancoMardis\MardisBancoTest\TransversalUtilities\obj\Debug\net6.0\TransversalUtilities.csproj.CoreCompileInputs.cache
+C:\Users\acorrales\OneDrive\Desktop\TestBancoMardis\MardisBancoTest\TransversalUtilities\obj\Debug\net6.0\TransversalUtilities.dll
+C:\Users\acorrales\OneDrive\Desktop\TestBancoMardis\MardisBancoTest\TransversalUtilities\obj\Debug\net6.0\refint\TransversalUtilities.dll
+C:\Users\acorrales\OneDrive\Desktop\TestBancoMardis\MardisBancoTest\TransversalUtilities\obj\Debug\net6.0\TransversalUtilities.pdb
+C:\Users\acorrales\OneDrive\Desktop\TestBancoMardis\MardisBancoTest\TransversalUtilities\obj\Debug\net6.0\TransversalUtilities.genruntimeconfig.cache
+C:\Users\acorrales\OneDrive\Desktop\TestBancoMardis\MardisBancoTest\TransversalUtilities\obj\Debug\net6.0\ref\TransversalUtilities.dll
